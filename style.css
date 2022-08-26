@@ -102,8 +102,8 @@ nav a {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  margin-left: 90px;
-  margin-top: 140px;
+  margin: 4vw 2vw;
+
 }
 
 .api-heading {
